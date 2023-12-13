@@ -1,0 +1,11 @@
+<group>
+    <student lastname="Иванов" groupnumber="1" firstname="Иван">
+        <average>4.5</average>
+        <subject title="Математика" mark="5"/>
+        <subject title="Физика" mark="4"/>
+    </student>
+    <student lastname="Петров" groupnumber="2" firstname="Петр">
+        <average>3.0</average>
+        <subject title="История" mark="3"/>
+    </student>
+</group>

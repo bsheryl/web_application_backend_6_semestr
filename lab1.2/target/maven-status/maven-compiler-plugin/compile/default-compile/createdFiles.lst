@@ -1,0 +1,7 @@
+org\example\model\Student.class
+org\example\model\Subject.class
+org\example\model\Group.class
+org\example\deserialization\DeserializationFromXml.class
+org\example\App.class
+org\example\utils\StudentUtils.class
+org\example\serialization\SerializationToXml.class
